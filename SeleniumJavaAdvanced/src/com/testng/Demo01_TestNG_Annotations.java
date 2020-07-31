@@ -10,7 +10,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.AfterSuite;
 
-public class Demo01_TestngAnnotations {
+public class Demo01_TestNG_Annotations {
 
 	@Test
 	public void TestA() {
